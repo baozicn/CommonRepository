@@ -1,0 +1,27 @@
+# Build and output directories
+/build/
+/Debug/
+/Release/
+
+# Compiled object files and binaries
+*.o
+*.a
+*.elf
+*.bin
+*.hex
+*.map
+*.lst
+
+# IDE and editor settings
+.vscode/
+.settings/
+.idea/
+*.launch
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Python cache and compiled files (if any scripts exist)
+__pycache__/
+*.pyc
